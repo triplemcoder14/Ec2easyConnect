@@ -8,7 +8,7 @@ import (
 	"github.com/aws/aws-sdk-go-v2/config"
 	"github.com/aws/aws-sdk-go-v2/service/ec2" // Import the ec2 service
 	ec2Types "github.com/aws/aws-sdk-go-v2/service/ec2/types"
-	"github.com/triplemocoder14/Ec2easyConnect/helpers"
+	"github.com/triplemcoder14/Ec2easyConnect/helpers"
 )
 
 func main() {

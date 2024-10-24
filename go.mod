@@ -1,5 +1,5 @@
 
-module github.com/triplemocoder14/Ec2easyConnect
+module github.com/triplemcoder14/Ec2easyConnect
 
 
 go 1.22.2
